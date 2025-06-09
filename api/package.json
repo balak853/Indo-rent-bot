@@ -1,0 +1,11 @@
+{
+  "name": "indo-rent-bot",
+  "version": "1.0.0",
+  "main": "api/bot.js",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  },
+  "scripts": {
+    "start": "node api/bot.js"
+  }
+}
